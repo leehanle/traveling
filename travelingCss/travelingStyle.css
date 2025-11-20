@@ -301,7 +301,7 @@ best*/
     color: #2e3226;
     font-size: 2rem;
     text-align: center;
-    line-height: 110px;
+    line-height: 150px;
   }
   .best .bottomBox2 p {
     letter-spacing: 4px;
@@ -841,7 +841,7 @@ best*/
     color: #2e3226;
     font-size: 3rem;
     text-align: center;
-    line-height: 110px;
+    line-height: 150px;
   }
   .best .bottomBox2 p {
     letter-spacing: 4px;
@@ -1058,12 +1058,13 @@ inter*/
     font-size: 2rem;
     padding: 20px 0px 0px 0px;
     width: 90%;
+    margin: 0px auto;
   }
   footer .flexBox {
     display: flex;
     width: 90%;
-    /* justify-content: space-between; */
-    /* margin: 0px auto; */
+    /* justify-content: center; */
+    margin: 0px auto;
   }
   footer .flexBox .leftBox .bigUl {
     display: Flex;
