@@ -9,6 +9,7 @@ a {
 ul {
   list-style: none;
 }
+
 @font-face {
   font-family: "JoseonPalace";
   src: url("https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_20-04@1.0/ChosunGs.woff")
@@ -24,6 +25,7 @@ ul {
 }
 
 body {
+  font-size: 16px;
   font-family: "JoseonPalace", sans-serif;
   background-color: #000;
   overflow-x: hidden;
